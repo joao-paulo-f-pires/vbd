@@ -22,6 +22,14 @@
 				<li><a href="">Assignment 2</a></li>
 			</ul>
 		</div>
+		<div>
+			<p>
+				<b>Students:</b><br/>
+				André Oliveira<br/>
+				João Paulo Pires (19564)<br/>
+				Pedro Camacho<br/>
+			</p>
+		</div>
 	</div>
 </body>
 </html>
